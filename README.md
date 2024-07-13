@@ -22,7 +22,7 @@ You can view the live version of my portfolio website [here](https://yourwebsite
 
 If you have any questions or want to connect, you can reach me at:
 
-- **Email:** devanshuranjan19@example.com
+- **Email:** devanshuranjan19@gmail.com
 - **LinkedIn:** [DevanshuRanjan](https://www.linkedin.com/in/devanshu-ranjan-52711a227/)
 
 Thank you for visiting my portfolio website repository!
